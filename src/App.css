@@ -89,6 +89,17 @@
   padding: 5px;
   
 }
+.firstcard {
+  height: 45vh;
+  width: 20vw;
+  position: absolute;
+  top: 110vh;
+  left: 15vw;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  color: rgb(198, 228, 255);
+}
 .photo2 {
   height: 45vh;
   width: 20vw;
@@ -100,17 +111,108 @@
   padding: 5px;
   
 }
+.secondcard {
+  height: 45vh;
+  width: 20vw;
+  position: absolute;
+  top: 110vh;
+  left: 40vw;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  color: rgb(198, 228, 255);
+}
 .photo3 {
   height: 45vh;
   width: 20vw;
   position: absolute;
   top: 60vh;
-  right: 15vw;
+  left: 65vw;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  
 }
+.thirdcard {
+  height: 45vh;
+  width: 20vw;
+  position: absolute;
+  top: 110vh;
+  left: 65vw;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  color: rgb(198, 228, 255);
+}
+.photo4 {
+  height: 45vh;
+  width: 20vw;
+  position: absolute;
+  top: 170vh;
+  left: 15vw;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  color: rgb(198, 228, 255);
+}
+.fourthcard {
+  height: 45vh;
+  width: 20vw;
+  position: absolute;
+  top: 230vh;
+  left: 15vw;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  color: rgb(198, 228, 255);
+}
+.photo5 {
+  height: 45vh;
+  width: 20vw;
+  position: absolute;
+  top: 170vh;
+  left: 40vw;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+.fifthcard {
+  height: 45vh;
+  width: 20vw;
+  position: absolute;
+  top: 230vh;
+  left: 40vw;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  color: rgb(198, 228, 255);
+}
+.photo6 {
+  height: 45vh;
+  width: 20vw;
+  position: absolute;
+  top: 170vh;
+  left: 65vw;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+
+}
+.sixthcard {
+  height: 45vh;
+  width: 20vw;
+  position: absolute;
+  top: 230vh;
+  left: 65vw;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  color: rgb(198, 228, 255);
+}
+.projects {
+
+  z-index: 99;
+}
+
 .border-bottom {
   background-color: rgb(177, 218, 218);
 }
@@ -128,8 +230,8 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 200vh;
-  max-height: 1000vh;
+  min-height: 320vh;
+  max-height: 2000vh;
   display: flex;
   flex-direction: column;
   align-items: center;
