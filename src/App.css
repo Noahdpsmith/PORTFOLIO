@@ -26,6 +26,50 @@
   border: none;
   color: rgb(198, 228, 255);
 }
+.title-abt {
+  position: absolute;
+  top: 120vh;
+  left: 35vw;
+  width: 30vw;
+  height: 15vh;
+  border: none;
+  color: rgb(28, 124, 235);
+  text-align: center;
+
+}
+.title-abt2 {
+  position: absolute;
+  top: 162vh;
+  left: 35vw;
+  width: 30vw;
+  height: 15vh;
+  border: none;
+  color: rgb(28, 124, 235);
+  text-align: center;
+
+}
+.abt {
+  position: absolute;
+  top: 130vh;
+  left: 30vw;
+  width: 40vw;
+  height: 30vh;
+  border: none;
+  color: rgb(198, 228, 255);
+  font-size: larger;
+  text-align: center;
+}
+.abt2 {
+  position: absolute;
+  top: 170vh;
+  left: 30vw;
+  width: 40vw;
+  height: 30vh;
+  border: none;
+  color: rgb(198, 228, 255);
+  font-size: larger;
+  text-align: center;
+}
 .mtns {
   position: absolute;
   top: 60vh;
@@ -67,6 +111,9 @@
   padding: 5px;
   
 }
+.border-bottom {
+  background-color: rgb(177, 218, 218);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -81,7 +128,8 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 200vh;
+  max-height: 1000vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -105,6 +153,7 @@
 
 .feet {
   background-color: rgb(177, 218, 218);
+  
 }
 
 

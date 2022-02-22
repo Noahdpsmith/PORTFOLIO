@@ -20,7 +20,7 @@ import Portfolio from './pages/Portfolio';
 function App() {
   return (
     <Router>
-              <Navbar className='border-bottom above feet' expand='lg'>
+              <Navbar className='border-bottom above' expand='lg'>
                 <Navbar.Brand>Noah Smith</Navbar.Brand>
                 <Navbar.Toggle aria-controls='navbar-toggle' className='border-1'  />
                   <NavbarCollapse id='navbar-toggle'>
@@ -29,7 +29,7 @@ function App() {
                     <Link className='nav-link' to="about">About</Link>
                     <Link className='nav-link' to="contact">Contact</Link>
                     <Link className='nav-link' to="resume">Resume</Link>
-                    <Link className='nav-link' to="portfolio">Portfolio</Link>
+                    <Link className='nav-link' to="Portfolio">Portfolio</Link>
 
                   </Nav>
                   </NavbarCollapse>
