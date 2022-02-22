@@ -1,10 +1,13 @@
 import React from 'react';
 import '../App.css';
+// import Ctitle from '../assets/ContractTitle';
 
 
-function Contact(props) {
+function Contact() {
   return(
-    <p>homepage works</p>
+    <p>
+        {/* <Ctitle></Ctitle> */}
+        homepage works</p>
   );
 }
 export default Contact

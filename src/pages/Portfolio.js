@@ -1,13 +1,14 @@
 
 import React from 'react';
 import '../App.css';
+// import Ptitle from '../assets/PortfolioTitle';
 
 
 
 function Portfolio(props) {
   return (
    <div>
-       
+       {/* <Ptitle></Ptitle> */}
     <div>
     <img alt="portfolio picture" className="photo above" src={require ('../images/portfolio.png')} />
 
@@ -17,6 +18,7 @@ function Portfolio(props) {
                  A basic app that allows you to see the weather
                  for a specific searched or saved city.",</p>
             <a href='https://github.com/Noahdpsmith/Challenge-11'>github</a>
+            <br/>
             <a href='https://note-taker-bby.herokuapp.com/notes.html'>Live</a> 
 
     </div>
@@ -31,6 +33,7 @@ function Portfolio(props) {
                   that were tested with insomnia.
     </p>
             <a href='https://github.com/Noahdpsmith/Challenge-11'>github</a>   
+            <br/>
             <a href='https://note-taker-bby.herokuapp.com/notes.html'>Live</a>  
 
     </div>
@@ -45,6 +48,7 @@ function Portfolio(props) {
                    Node HTML CSS Javascript Socket.IO
     </p>
             <a href='https://agile-bastion-07410.herokuapp.com/'>github</a>
+            <br/>
             <a href='https://github.com/Noahdpsmith/BookWorm'>Live</a>   
 
     </div>
@@ -56,6 +60,7 @@ function Portfolio(props) {
                 Application allows users to search Covid-19 testing
                  sites within their zipcodes.</p>
             <a href='https://github.com/Noahdpsmith/group10projecthttps://github.com/Jake-Roberts/group10project'>github</a>  
+            <br/>
             <a href='https://jake-roberts.github.io/group10project/'>Live </a>
 
     </div>
@@ -67,6 +72,7 @@ function Portfolio(props) {
                  A basic work portfolio that holds my projects for
                   the full stack development class.</p>
             <a className='above' href='https://github.com/Noahdpsmith/Challenge-2'>github</a>  
+            <br/>
             <a className='above' href='https://noahdpsmith.github.io/Challenge-2/'>Live</a> 
 
     </div>
@@ -78,6 +84,7 @@ function Portfolio(props) {
             A commissioned website for a team of people who want
             to help you find someone to run with,</p>
             <a href='https://github.com/Noahdpsmith/runnin'>github</a> 
+            <br/>
             <a href='https://noahdpsmith.github.io/runnin/'>Live</a> 
 
     </div>
