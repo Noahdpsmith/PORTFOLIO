@@ -1,10 +1,14 @@
 import React from 'react';
-
+import '../App.css';
+import Hero from '../components/Hero';
 
 
 function About(props) {
   return(
-    <p>homepage works</p>
+    <Hero>
+    </Hero>
+
+    
   );
 }
 export default About;

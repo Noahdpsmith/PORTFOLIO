@@ -5,7 +5,7 @@ import '../App.css';
 const Footer = () => {
 
     return(
-       <footer className='mt-5'>
+       <footer className='mt-0 above feet'>
            <Container fluid={true}>
                <Row className='border-top justify-content-between p-3'>
                     <Col className='p-0' md={3} sm={12}>

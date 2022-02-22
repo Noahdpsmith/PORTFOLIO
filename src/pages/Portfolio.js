@@ -3,7 +3,7 @@ import '../App.css';
 import Hero from '../components/Hero';
 import Carosel from '../components/Carosel';
 
-const HomePage = () => {
+const Portfolio = () => {
   return(
         <div>
           <Hero></Hero>
@@ -11,4 +11,4 @@ const HomePage = () => {
         </div>
      );
 }
-export default HomePage;
+export default Portfolio;
