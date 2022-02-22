@@ -315,8 +315,30 @@
   background-color: rgb(177, 218, 218);
   
 }
-
-
+.heedd {
+  position: absolute;
+  top: 60vh;
+  left: 15vw;
+  width: 70vw;
+  height: 50vh;
+  border: none;
+  color: rgb(198, 228, 255);
+  font-size: xx-large;
+  text-align: center;
+  z-index: 98;
+}
+.ContactForm {
+  position: absolute;
+  top: 80vh;
+  left: 15vw;
+  width: 70vw;
+  height: 50vh;
+  border: none;
+  color: rgb(198, 228, 255);
+  font-size: larger;
+  text-align: center;
+  z-index: 98;
+}
 
 
 
