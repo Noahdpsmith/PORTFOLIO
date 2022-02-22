@@ -1,13 +1,12 @@
 import React from 'react'
 import '../App.css';
-// import Rtitle from '../assets/ResumeTitle';
-
+import Resumetitle from '../assets/ResumeTitle';
 
 function Apply() {
     return (
         <div className='App'>
-            {/* <Rtitle></Rtitle> */}
-            <p className='resume above'>
+            <Resumetitle />
+        <p className='resume above'>
             Noah smith<br/>
 2822 Melbourne st, SLC utah, 84106<br/>
 385-444-0155, Noahjosephsmith@gmail.com<br/>

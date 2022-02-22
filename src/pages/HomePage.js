@@ -3,11 +3,11 @@ import '../App.css';
 import Hero from '../components/Hero';
 import Carosel from '../components/Carosel';
 import About from './About';
-// import Htitle from '../assets/HomeTitle';
-
+import Hometitle from '../assets/HomeTitle';
 const HomePage = () => {
   return(
         <div>
+          <Hometitle />
           <Hero></Hero>
           <Carosel></Carosel>
           <About></About>

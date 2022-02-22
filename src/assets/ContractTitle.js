@@ -1,9 +1,9 @@
 import React from "react";
 import '../App.css'
 
-const Ctitle = () => {
+const Contacttitle = () => {
     return(
-        <p className="Titlist above">Contact Me</p>
+        <p className="titlist2 above">Contact Me</p>
     )
 }
-export default Ctitle;
+export default Contacttitle;

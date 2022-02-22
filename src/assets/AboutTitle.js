@@ -1,9 +1,9 @@
 import React from "react";
 import '../App.css'
 
-const Abtitle = () => {
+const Abouttitle = () => {
     return(
-        <p className="Titlist above">About Me</p>
+        <p className="titlist1 above">About Me</p>
     )
 }
-export default Abtitle;
+export default Abouttitle;

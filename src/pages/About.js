@@ -1,10 +1,8 @@
 import React from 'react';
 import '../App.css';
-// import Atitle from '../assets/AboutTitle';
 import Carosel from '../components/Carosel';
 import Hero from '../components/Hero';
-// import Abtitle from '../assets/AboutTitle';
-
+import Abouttitle from '../assets/AboutTitle';
 function About(props) {
   return(
       
@@ -13,6 +11,7 @@ function About(props) {
         <Hero></Hero>
         <Carosel></Carosel>
         {/* <Abtitle></Abtitle> */}
+        <Abouttitle />
         <h1 className='title-abt above'>About Me</h1>
             <p className='abt above'>
                 I am A 24 year old who has had ADHD his whole life and have finally learned to channel it!

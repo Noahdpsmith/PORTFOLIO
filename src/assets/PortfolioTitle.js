@@ -1,9 +1,9 @@
 import React from "react";
 import '../App.css'
 
-const Ptitle = () => {
+const Portfoliotitle = () => {
     return(
-        <p className="Titlist above">Portfolio</p>
+        <p className="titlist4 above">Portfolio</p>
     )
 }
-export default Ptitle;
+export default Portfoliotitle;

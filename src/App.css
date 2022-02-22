@@ -7,7 +7,7 @@
   border: none;
   color: rgb(198, 228, 255);
 }
-.titlist {
+.titlist1 {
     position: absolute;
     top: 30vh;
     left: 60vw;
@@ -16,6 +16,46 @@
     border: none;
     color: rgb(198, 228, 255);
     font-size: xx-large;
+}
+.titlist2 {
+  position: absolute;
+  top: 30vh;
+  left: 60vw;
+  width: 200px;
+  height: 100px;
+  border: none;
+  color: rgb(198, 228, 255);
+  font-size: xx-large;
+}
+.titlist3 {
+  position: absolute;
+  top: 22vh;
+  left: 60vw;
+  width: 200px;
+  height: 100px;
+  border: none;
+  color: rgb(198, 228, 255);
+  font-size: xx-large;
+}
+.titlist4 {
+  position: absolute;
+  top: 30vh;
+  left: 60vw;
+  width: 200px;
+  height: 100px;
+  border: none;
+  color: rgb(198, 228, 255);
+  font-size: xx-large;
+}
+.titlist5 {
+  position: absolute;
+  top: 30vh;
+  left: 60vw;
+  width: 200px;
+  height: 100px;
+  border: none;
+  color: rgb(198, 228, 255);
+  font-size: xx-large;
 }
 .resume {
   position: absolute;

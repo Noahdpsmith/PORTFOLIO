@@ -1,14 +1,13 @@
 
 import React from 'react';
 import '../App.css';
-// import Ptitle from '../assets/PortfolioTitle';
-
+import Portfoliotitle from '../assets/PortfolioTitle';
 
 
 function Portfolio(props) {
   return (
    <div>
-       {/* <Ptitle></Ptitle> */}
+       <Portfoliotitle />
     <div>
     <img alt="portfolio picture" className="photo above" src={require ('../images/portfolio.png')} />
 
