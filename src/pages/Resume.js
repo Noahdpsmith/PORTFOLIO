@@ -4,6 +4,7 @@ import Resumetitle from '../assets/ResumeTitle';
 
 function Apply() {
     return (
+        <div>
         <div className='App'>
             <Resumetitle />
         <p className='resume above'>
@@ -59,6 +60,21 @@ I'm a very social person. I love talking to people. I love anything outdoors.  L
  state chess tournament.  I Love video games!
 
             </p>
+            
+        </div>
+        <h1 className='title-abt6 above'>Coding skills i have</h1>
+        <ul className='litht3 above'>
+          <li>HTML</li><li>CSS</li><li>Git</li>
+          <li>JavaScript</li><li>Bootstrap</li><li>The DOM</li>
+          <li>APIs</li><li>JQuery</li><li>JSON</li>
+          <li>AJAX</li><li> Node</li><li> NoSQL</li><li> MERN Stack</li><li>ES6</li>
+          </ul>
+          <ul className='litht4 above'>
+          <li> OOP</li><li> Express</li><li> MySQL</li>
+          <li> MVC paradigm</li><li> Sequelize</li><li> Testing</li>
+          <li> Agile development</li><li>Progressive Web Apps</li>
+          <li> React</li><li> NoSQL</li><li> MERN Stack</li><li>ES6</li>
+        </ul>
         </div>
       );
     }

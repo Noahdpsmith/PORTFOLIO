@@ -106,6 +106,28 @@
   text-align: center;
 
 }
+.title-abt3 {
+  position: absolute;
+  top: 190vh;
+  left: 35vw;
+  width: 30vw;
+  height: 15vh;
+  border: none;
+  color: rgb(28, 124, 235);
+  text-align: center;
+
+}
+.title-abt6 {
+  position: absolute;
+  top: 230vh;
+  left: 35vw;
+  width: 30vw;
+  height: 15vh;
+  border: none;
+  color: rgb(28, 124, 235);
+  text-align: center;
+
+}
 .abt {
   position: absolute;
   top: 130vh;
@@ -288,7 +310,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 320vh;
+  min-height: 350vh;
   max-height: 2000vh;
   display: flex;
   flex-direction: column;
@@ -315,6 +337,70 @@
   background-color: rgb(177, 218, 218);
   
 }
+.bottomfront {
+  position: absolute;
+  top: 230vh;
+  height: 50vh;
+  border: none;
+  color: rgb(198, 228, 255);
+  font-size: larger;
+  text-align: center;
+}
+.alohas {
+  position: absolute;
+  top: 280vh;
+  left: 35vw;
+  width: 30vw;
+  border: none;
+  color: rgb(28, 124, 235);
+  font-size: xx-large;
+  text-align: center;
+}
+.litht {
+  position: absolute;
+  top: 200vh;
+  left: 30vw;
+  width: 10vw;
+  border: none;
+  color: white;
+  font-size: x-large;
+  text-align: center;
+  z-index: 99;
+}
+.litht2 {
+  position: absolute;
+  top: 200vh;
+  left: 60vw;
+  width: 10vw;
+  border: none;
+  color: white;
+  font-size: x-large;
+  text-align: center;
+  z-index: 99;
+}
+.litht3 {
+  position: absolute;
+  top: 250vh;
+  left: 30vw;
+  width: 10vw;
+  border: none;
+  color: white;
+  font-size: x-large;
+  text-align: center;
+  z-index: 99;
+}
+.litht4 {
+  position: absolute;
+  top: 250vh;
+  left: 60vw;
+  width: 10vw;
+  border: none;
+  color: white;
+  font-size: x-large;
+  text-align: center;
+  z-index: 99;
+}
+
 .heedd {
   position: absolute;
   top: 60vh;
