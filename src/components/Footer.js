@@ -14,6 +14,12 @@ const Footer = () => {
                     <Col className=''>
                         This Site was made by Noah Smith
                     </Col>
+                    <Col>
+                    <a href='https://github.com/Noahdpsmith'>My Github</a>
+                    </Col>
+                    <Col>
+                    <a href='Noahjosephsmith@gmail.com'>My Email</a>
+                    </Col>
                 </Row>
            </Container>
        </footer>
