@@ -9,7 +9,7 @@ function Portfolio(props) {
    <div>
        <Portfoliotitle />
     <div>
-    <img alt="portfolio picture" className="photo above" src={require ('../images/portfolio.png')} />
+    <img alt="portfolio picture" className="photo above" src={require ('../images/notetaker.png')} />
 
       <div className="firstcard above">
                 <h1>Note Taker</h1>
