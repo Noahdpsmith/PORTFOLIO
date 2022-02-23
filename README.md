@@ -3,8 +3,12 @@
     
   ## Description 
       A portfolio showing off my webdev skills.
+  ## Link
+  
+  https://noahdpsmith.github.io/
     
    ## Table of Contents
+   
 
     - [Description](#description)
 
@@ -26,7 +30,9 @@
       clone starter code run npm i and npm start
    ## Usage
       for interviews and to showcase
-    
+   ##Image
+    ![image](https://user-images.githubusercontent.com/88944710/155382543-eb13f9e5-08b9-4355-abfc-447fb2c7cc5b.png)
+
    ## Tests
       time and effort
    ## License
