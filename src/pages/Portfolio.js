@@ -9,7 +9,7 @@ function Portfolio(props) {
    <div>
        <Portfoliotitle />
     <div>
-    <img alt="portfolio picture" className="photo above" src={require ('../notetaker.png')} />
+    <img alt="portfolio picture" className="photo above" src={require ('../images/notetaker.png')} />
 
       <div className="firstcard above">
                 <h1>Note Taker</h1>
@@ -21,22 +21,20 @@ function Portfolio(props) {
             <a href='https://note-taker-bby.herokuapp.com/notes.html'>Live</a> 
 
     </div>
-    <img alt="ORM picture" className="photo2 above" src={require ('../chal.png')} />
+    <img alt="ORM picture" className="photo2 above" src={require ('../images/okay.png')} />
 
     <div className="secondcard above">
-                <h1>ORM</h1>
+                <h1>Build a computer</h1>
             <p>Description:
-                 This is an application that uses a express.js
-                  API, sequelize to connect to mysql database. 
-                  also shows GET, POST, DELETE and PUT routes 
-                  that were tested with insomnia.
+                 A project that used the full MERN stack
+                 that lets user build and buy a computer.
     </p>
-            <a href='https://github.com/Noahdpsmith/Challenge-11'>github</a>   
+            <a href='https://github.com/Noahdpsmith/bob-the-build-a-computer'>github</a>   
             <br/>
-            <a href='https://note-taker-bby.herokuapp.com/notes.html'>Live</a>  
+            <a href='https://bob-the-build-a-computer.herokuapp.com/'>Live</a>  
 
     </div>
-    <img alt="bookclub picture" className="photo3 above" src={require ('../bookclub.png')} />
+    <img alt="bookclub picture" className="photo3 above" src={require ('../images/bookclub.png')} />
 
     <div className="thirdcard above">
                 <h1>bookclub</h1>
@@ -51,7 +49,7 @@ function Portfolio(props) {
             <a href='https://github.com/Noahdpsmith/BookWorm'>Live</a>   
 
     </div>
-    <img alt="covid picture" className="photo4 above" src={require ('../covid.png')} />
+    <img alt="covid picture" className="photo4 above" src={require ('../images/covid.png')} />
 
     <div className="fourthcard above">
                 <h1>covid 19</h1>
@@ -63,7 +61,7 @@ function Portfolio(props) {
             <a href='https://jake-roberts.github.io/group10project/'>Live </a>
 
     </div>
-    <img alt="portfolio picture" className="photo5 above" src={require ('../portfolio.png')} />
+    <img alt="portfolio picture" className="photo5 above" src={require ('../images/portfolio.png')} />
 
     <div className="fifthcard above">
                 <h1 className='above'>Portfolio start</h1>
@@ -75,7 +73,7 @@ function Portfolio(props) {
             <a className='above' href='https://noahdpsmith.github.io/Challenge-2/'>Live</a> 
 
     </div>
-    <img alt="Run Buddy" className="photo6 above" src={require ('../runbuddy.png')} />
+    <img alt="Run Buddy" className="photo6 above" src={require ('../images/runbuddy.png')} />
 
     <div className="sixthcard above">
                 <h1>Run Buddy</h1>
