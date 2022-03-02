@@ -5,7 +5,7 @@
       A portfolio showing off my webdev skills.
   ## Link
   
-  https://noahdpsmith.github.io/
+    https://noahdpsmith.github.io/about
     
    ## Table of Contents
    
